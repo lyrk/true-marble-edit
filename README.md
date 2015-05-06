@@ -8,5 +8,5 @@ Diese ganze Pixelschubserei war so aufwendig, dass auch nach mehreren Wochen Arb
 Diese 8 Bilder, die zusammen immerhin fast 4 Gigapixel umfassen, stellen wir nun als Torrent zur Verfügung. Lizenz ist weiterhin CC-BY Lyrk, Unearthed Outdoors, LLC 
 
 ## Download per BitTorrent
-* Magnet Link: `magnet:?xt=urn:btih:ac33ae238ec9556a958f42236a391085b998adc1&dn=true-marble-edit%20v1&tr=udp%3A%2F%2Ftracker.ipv6tracker.org%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.ipv6tracker.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969 (sorry, GitHub erlaubt keine klickbaren Magnet Links im Markdown)`
+* Magnet Link: `magnet:?xt=urn:btih:ac33ae238ec9556a958f42236a391085b998adc1&dn=true-marble-edit%20v1&tr=udp%3A%2F%2Ftracker.ipv6tracker.org%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.ipv6tracker.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969` (sorry, GitHub erlaubt keine klickbaren Magnet Links im Markdown)
 * [Torrent File](http://files.lyrk.de/consti/share/true-marble-edit-v1.torrent)
