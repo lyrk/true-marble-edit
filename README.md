@@ -8,9 +8,12 @@ Photoshop comes to help here. That sounds easy, but the image files are around 5
 
 This 8 images that add up to 4 giga pixels are now available to download via Torrent. They are licensed under the  [CC-BY](http://creativecommons.org/licenses/by/3.0/us/) Lyrk, Unearthed Outdoors, LLC
 
-## Download via BitTorrent
+## Download
+### Download via BitTorrent
 * Magnet Link: `magnet:?xt=urn:btih:ac33ae238ec9556a958f42236a391085b998adc1&dn=true-marble-edit%20v1&tr=udp%3A%2F%2Ftracker.ipv6tracker.org%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.ipv6tracker.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969` (sorry, GitHub doesn't allow clickable torrent links in Markdown)
 * [Torrent File](/true-marble-edit-v1.torrent)
+### Download via HTTP
+* [download](http://ubahndepot.com/storage/opendata/luftbilder/true-marble-edit-v1.zip)
 
 ## Coverage map
 The map shows the available regions
@@ -25,9 +28,12 @@ Diese ganze Pixelschubserei war so aufwendig, dass auch nach mehreren Wochen Arb
 
 Diese 8 Bilder, die zusammen immerhin fast 4 Gigapixel umfassen, stellen wir nun als Torrent zur Verfügung. Lizenz ist weiterhin [CC-BY](http://creativecommons.org/licenses/by/3.0/us/) Lyrk, Unearthed Outdoors, LLC 
 
-## Download per BitTorrent
+## Download
+### Download per BitTorrent
 * Magnet Link: `magnet:?xt=urn:btih:ac33ae238ec9556a958f42236a391085b998adc1&dn=true-marble-edit%20v1&tr=udp%3A%2F%2Ftracker.ipv6tracker.org%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.ipv6tracker.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969` (sorry, GitHub erlaubt keine klickbaren Magnet Links im Markdown)
 * [Torrent File](/true-marble-edit-v1.torrent)
+### Download via HTTP
+* [download](http://ubahndepot.com/storage/opendata/luftbilder/true-marble-edit-v1.zip)
 
 ## Coverage map
 Die Karte zeigt die bearbeiten Bereiche
