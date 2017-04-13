@@ -15,6 +15,9 @@ This 8 images that add up to 4 giga pixels are now available to download via Tor
 ### Download via HTTP
 * [download](http://ubahndepot.com/storage/opendata/luftbilder/true-marble-edit-v1.zip)
 
+### Download Original
+* The original TrueMarble files are not online at unearthedoutdoors.net anymore. But fortunately the page is [archived on the internet Archive](https://web-beta.archive.org/web/20161021232144/http://www.unearthedoutdoors.net/global_data/true_marble/download) including all(?) files, and also the torrent files. Downloading the huge files from archive.org can be slow, so you want to use [the torrent](https://web-beta.archive.org/web/20161021232144/http://www.unearthedoutdoors.net/global_data/true_marble/TrueMarble_GeoTIFF.torrent).
+
 ## Coverage map
 The map shows the available regions
 ![coverage map](https://raw.githubusercontent.com/lyrk/true-marble-edit/master/coverage.png)
@@ -34,6 +37,9 @@ Diese 8 Bilder, die zusammen immerhin fast 4 Gigapixel umfassen, stellen wir nun
 * [Torrent File](/true-marble-edit-v1.torrent)
 ### Download via HTTP
 * [download](http://ubahndepot.com/storage/opendata/luftbilder/true-marble-edit-v1.zip)
+
+### Orginal Dateien
+* Momentan sind die original True Marble Dateien nicht mehr auf unearthedoutdoors.net verfügbar. Glücklicherweise wurde die Downloadseite mit allen(?) verlinkten Dateien [vom Internet Archive archiviert](https://web-beta.archive.org/web/20161021232144/http://www.unearthedoutdoors.net/global_data/true_marble/download). Die Downloadgeschwindigkeit vom Internet Archive wird bei den großen Dateien eher langsam sein, deswegen ist es evtl. eine gute Idee [diesen Torrent](https://web-beta.archive.org/web/20161021232144/http://www.unearthedoutdoors.net/global_data/true_marble/TrueMarble_GeoTIFF.torrent) zu benutzen.
 
 ## Coverage map
 Die Karte zeigt die bearbeiten Bereiche
